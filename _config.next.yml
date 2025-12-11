@@ -116,12 +116,17 @@ open_graph:
  # icons: true
  # badges: false
 menu:
-  home: / || home
-  about: /about/ || user
-  tags: /tags/ || tags
-  categories: /categories/ || th
-  archives: /archives/ || archive
-
+  home: / || fa fa-home
+  about: /about/ || fa fa-user
+  education: /education/ || fa fa-graduation-cap
+  research: /research/ || fa fa-flask
+  study: /study/ || fa fa-book
+  english: /english/ || fa fa-language
+  skills: /skills/ || fa fa-certificate
+  hobbies: /hobbies/ || fa fa-heart
+  archives: /archives/ || fa fa-archive
+  categories: /categories/ || fa fa-th
+  tags: /tags/ || fa fa-tags
 # ---------------------------------------------------------------
 # Sidebar Settings
 # See: https://theme-next.js.org/docs/theme-settings/sidebar
