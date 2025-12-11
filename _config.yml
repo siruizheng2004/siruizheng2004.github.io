@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Welcome to my personal website
-subtitle: 'Sirui Zheng'
-description: ''
+title: Sirui Zheng's Blog
+subtitle: 'Lifelong Learner'
+description: 'Personal blog sharing thoughts on programming and learning journey'
 keywords:
 author: Sirui Zheng
 language: en
@@ -66,9 +66,17 @@ index_generator:
 
 # Category & Tag
 default_category: uncategorized
-category_map:
 tag_map:
-
+category_map:
+  'Web Development': web-dev
+  'Machine Learning': ml
+  'Python': python
+  'JavaScript': javascript
+  'Data Structures': data-structures
+  'Algorithms': algorithms
+  'System Design': system-design
+  'Career Advice': career
+  'Book Reviews': books
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
 meta_generator: true
