@@ -104,7 +104,6 @@ open_graph:
 #menu:
   #home: / || fa fa-home
   #about: /about/ || fa fa-user
-  #tags: /tags/ || fa fa-tags
   #categories: /categories/ || fa fa-th
   #archives: /archives/ || fa fa-archive
   #schedule: /schedule/ || fa fa-calendar
@@ -126,7 +125,6 @@ menu:
   hobbies: /hobbies/ || fa fa-heart
   archives: /archives/ || fa fa-archive
   categories: /categories/ || fa fa-th
-  tags: /tags/ || fa fa-tags
 # ---------------------------------------------------------------
 # Sidebar Settings
 # See: https://theme-next.js.org/docs/theme-settings/sidebar
