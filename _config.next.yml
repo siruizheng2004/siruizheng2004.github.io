@@ -124,7 +124,6 @@ menu:
   skills: /skills/ || fa fa-certificate
   hobbies: /hobbies/ || fa fa-heart
   archives: /archives/ || fa fa-archive
-  categories: /categories/ || fa fa-th
 # ---------------------------------------------------------------
 # Sidebar Settings
 # See: https://theme-next.js.org/docs/theme-settings/sidebar
