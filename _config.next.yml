@@ -117,8 +117,8 @@ open_graph:
 menu:
   home: / || fa fa-home
   about: /about/ || fa fa-user
-  education: /education/ || fa fa-graduation-cap
-  research: /research/ || fa fa-flask
+  #education: /education/ || fa fa-graduation-cap
+  #research: /research/ || fa fa-flask
   study: /study/ || fa fa-book
   #english: /english/ || fa fa-language
   skills: /skills/ || fa fa-certificate
