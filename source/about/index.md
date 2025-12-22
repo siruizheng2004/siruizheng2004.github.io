@@ -18,7 +18,6 @@ comments: false
 - 🎓 [Education Background](/education)
 - 🔬 [Research Experience](/research)
 - 📚 [Study Notes](/study)
-- 🌐 [English Learning](/english)
 - 🏆 [Skills & Certificates](/skills)
 - 💃 [Hobbies & Interests](/hobbies)
 
