@@ -15,8 +15,6 @@ comments: false
 
 ### Quick Links
 - 📧 [Email Me](mailto:15797952362@163.com)
-#- 🎓 [Education Background](/education)
-#- 🔬 [Research Experience](/research)
 - 📚 [Study Notes](/study)
 - 🏆 [Skills & Certificates](/skills)
 - 💃 [Hobbies & Interests](/hobbies)
