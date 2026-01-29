@@ -7,5 +7,5 @@ This section concludes my daily hobbies such as drawing, dancing, and singing.
 
 You can find all related hobbies posts listed below:
 
-[View all hobbies-related posts](/categories/hobbies/)
+👉 [View all hobbies-related posts](/categories/hobbies/)
 
