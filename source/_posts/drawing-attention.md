@@ -16,11 +16,11 @@ I have been learning drawing since I was eight years old. Even though my schedul
 
 Here are some of my recent drawings:
 
-![My Drawing 1](/images/drawing1.jpg){: style="width:100%; max-width:600px; border-radius:8px; margin-bottom:16px;" }
+![My Drawing 1](/images/drawing1.jpg)
 
-![My Drawing 2](/images/drawing2.jpg){: style="width:100%; max-width:600px; border-radius:8px; margin-bottom:16px;" }
+![My Drawing 2](/images/drawing2.jpg)
 
-![My Drawing 3](/images/drawing3.jpg){: style="width:100%; max-width:600px; border-radius:8px; margin-bottom:16px;" }
+![My Drawing 3](/images/drawing3.jpg)
 
 ---
 
