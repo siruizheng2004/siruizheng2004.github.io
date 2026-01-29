@@ -159,7 +159,7 @@ sidebar:
   #rounded: false
   # If true, the avatar will be rotated with the cursor.
   #rotated: false
-Sidebar Avatar
+#Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
   url: /images/my_photo.jpg
