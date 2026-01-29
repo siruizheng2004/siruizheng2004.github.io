@@ -131,7 +131,9 @@ menu:
   #position: left
 sidebar:
   position: right
-
+profile:
+  avatar: /images/my_photo.jpg
+  name: Sirui Zheng
   # Sidebar width.
   # Applicable to Muse | Mist and mobile of Pisces | Gemini.
   width_expanded: 320
