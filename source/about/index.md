@@ -35,7 +35,7 @@ Zhengzhou University, China
 
 You can view or download my CV here:
 
-👉 **[Download CV (PDF)](/files/Zheng_Sirui_CV.pdf)**
+👉 **[Download CV (PDF)](/files/SiruiZheng_CV.pdf)**
 
 ---
 
@@ -46,8 +46,3 @@ You can view or download my CV here:
 - 💃 [Hobbies & Interests](/hobbies)
 
 ---
-
-### About Me
-Hello! I'm a senior Bioinformatics student at Zhengzhou University with a strong passion for AI in Science (AI4S), biochemistry, and bioinformatics research.
-
-This site serves as my digital portfolio and knowledge base. Click on the categories above to explore different aspects of my academic journey and interests.
