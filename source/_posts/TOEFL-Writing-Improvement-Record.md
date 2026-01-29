@@ -11,8 +11,7 @@ tags:
 
 ## Background
 
-My overall TOEFL score ranged from **87 to 96**, with section scores of **26 (Reading), 24 (Listening), 22 (Speaking), and 24 (Writing)**.  
-Among these, writing was clearly my weakest section in an earlier attempt, scoring only **18 out of 30**.
+I took the TOEFL twice. On my first attempt, my overall score was 87, with a writing score of 18 out of 30, which was clearly my weakest section. On my second attempt, my total score improved to 96, with section scores of 26 in Reading, 24 in Listening, 22 in Speaking, and 24 in Writing.
 
 ---
 
