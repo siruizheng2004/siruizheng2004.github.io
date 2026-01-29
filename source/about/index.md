@@ -5,7 +5,7 @@ layout: page
 comments: false
 ---
 
-![Sirui Zheng](/images/my_photo.jpg){: style="width:150px; border-radius:50%;" }
+![Sirui Zheng](/images/my_photo.jpg)
 
 # Sirui Zheng
 
